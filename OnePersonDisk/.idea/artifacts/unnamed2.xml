@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="unnamed2">
+    <output-path>D:/Users/Fu/Desktop/web项目</output-path>
+    <root id="root">
+      <element id="dir-copy" path="D:/Users/Fu/Desktop/web项目" />
+      <element id="archive" name="archive.jar" />
+    </root>
+  </artifact>
+</component>
